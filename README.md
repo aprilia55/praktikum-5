@@ -2,6 +2,10 @@
 
 Program ini adalah aplikasi berbasis Python untuk mengelola data mahasiswa menggunakan struktur data **dictionary**. Dengan program ini, pengguna dapat menambahkan, mengubah, menghapus, menampilkan, dan mencari data mahasiswa. Program juga menghitung nilai akhir berdasarkan bobot tertentu untuk tugas, UTS, dan UAS.
 
+# Flowchart alur Pemrograman
+
+![foto]()
+
 ## Fitur Program
 
 1. **Tambah Data**: Menambahkan data mahasiswa baru ke dalam sistem.
@@ -133,8 +137,9 @@ def tampilkan_data(data):
     if nama in data:
         print(f"Nama: {nama}, Tugas: {data[nama]['Tugas']}, UTS: {data[nama]['UTS']}, UAS: {data[nama]['UAS']}")
    ```
-  **`Berikut adalah Contoh Pengoprasian Program`**
-  ![foto]()
+  # Berikut adalah Contoh Pengoprasian Program
+  
+  ![foto](https://github.com/aprilia55/praktikum-5/blob/c24e3362c2d3d0b9ecaad5187f5be611dc13f2d9/Screen%20Shot%202024-11-21%20at%2011.44.08.png)
 
 
 
