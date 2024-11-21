@@ -124,6 +124,18 @@ def tampilkan_data(data):
     for nama, nilai in data.items():
         print(f"{nama:<15}{nilai['Tugas']:<10}{nilai['UTS']:<10}{nilai['UAS']:<10}{nilai['Nilai Akhir']:<15.2f}")
 ```
+7. **`Cari_data`**
+
+   Fungsi ini mencari data mahasiswa berdasarkan nama.
+   ```python
+   def cari_data(data):
+    nama = input("Masukkan nama yang dicari: ")
+    if nama in data:
+        print(f"Nama: {nama}, Tugas: {data[nama]['Tugas']}, UTS: {data[nama]['UTS']}, UAS: {data[nama]['UAS']}")
+   ```
+  **`Berikut adalah Contoh Pengoprasian Program`**
+  ![foto]()
+
 
 
 
