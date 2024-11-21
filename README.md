@@ -1,5 +1,13 @@
 # Praktikum 5 - Program Manajemen Data Mahasiswa
 
+Nama : Alfarizki Aprilia Putri 
+
+Kelas : TI.24.A5
+
+Nim : 312410455
+
+# Penjelasa Tentang Kode Program
+
 Program ini adalah aplikasi berbasis Python untuk mengelola data mahasiswa menggunakan struktur data **dictionary**. Dengan program ini, pengguna dapat menambahkan, mengubah, menghapus, menampilkan, dan mencari data mahasiswa. Program juga menghitung nilai akhir berdasarkan bobot tertentu untuk tugas, UTS, dan UAS.
 
 # Flowchart alur Pemrograman
