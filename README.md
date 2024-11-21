@@ -137,7 +137,7 @@ def tampilkan_data(data):
     if nama in data:
         print(f"Nama: {nama}, Tugas: {data[nama]['Tugas']}, UTS: {data[nama]['UTS']}, UAS: {data[nama]['UAS']}")
    ```
-  # Berikut adalah Contoh Pengoprasian Program
+  # Berikut adalah Contoh Penggunaan Program
   
   ![foto](https://github.com/aprilia55/praktikum-5/blob/c24e3362c2d3d0b9ecaad5187f5be611dc13f2d9/Screen%20Shot%202024-11-21%20at%2011.44.08.png)
 
