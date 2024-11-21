@@ -4,7 +4,7 @@ Program ini adalah aplikasi berbasis Python untuk mengelola data mahasiswa mengg
 
 # Flowchart alur Pemrograman
 
-![foto]()
+![foto](https://github.com/aprilia55/praktikum-5/blob/19e4abf71f6e4642e9016bb05d38be1dd7ac5b8f/WhatsApp%20Image%202024-11-21%20at%2016.45.37.jpeg)
 
 ## Fitur Program
 
